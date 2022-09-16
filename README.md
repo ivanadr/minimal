@@ -1,3 +1,10 @@
+# Notes
+* customizing the layout and css https://www.codingwithricky.com/2021/05/10/intro-to-github-pages-create-a-simple-and-free-personal-website/ 
+* thinking of mofyfying the layout 'downloads' in the custom layout file
+* downloads suggestion in issues: mayb be helpful: https://github.com/pages-themes/minimal/pull/24
+* palletes and colors I am considering chanign in the css/ scss **a** and **a:hover**:  https://imagecolorpicker.com/user/palettes 
+* blues used by minimal : #069 and #267CB9 extracted from (http://www.css-color-extractor.com/) 
+
 # The Minimal theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
