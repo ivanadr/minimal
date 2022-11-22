@@ -3,7 +3,8 @@
 * thinking of mofyfying the layout 'downloads' in the custom layout file
 * downloads suggestion in issues: mayb be helpful: https://github.com/pages-themes/minimal/pull/24
 * palletes and colors I am considering chanign in the css/ scss **a** and **a:hover**:  https://imagecolorpicker.com/user/palettes 
-* blues used by minimal : #069 and #267CB9 extracted from (http://www.css-color-extractor.com/) 
+* blues used by minimal : #069 and #267CB9 extracted from (http://www.css-color-extractor.com/)
+* favicons: https://ptc-it.de/add-favicon-to-mm-jekyll-site/ 
 
 # The Minimal theme
 
